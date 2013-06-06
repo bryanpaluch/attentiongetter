@@ -1,0 +1,6 @@
+*.lst
+*.eep
+*.lss
+*.o
+*.hex
+restapi/node_modules
